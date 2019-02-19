@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:cb="http://www.cbwiki.net/wiki/index.php/Specification_1.1" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:g-core="http://base.google.com/ns/1.0">
+  <channel rdf:about="http://www.bis.org/doclist/cbspeeches.rss">
+    <title>Collection of speeches and articles by senior central bank officials.</title>
+    <link>http://www.bis.org/doclist/cbspeeches.rss</link>
+    <description>Collection of speeches and articles by senior central bank officials.</description>
+    <items>
+      <rdf:Seq>
+        <rdf:li resource="http://www.bis.org/review/r190218a.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190218b.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190215a.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190215b.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190215d.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190215c.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190214a.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190214b.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190214c.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190214d.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190213b.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190213c.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190213a.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212a.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212b.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212c.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212d.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212e.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212g.htm" />
+        <rdf:li resource="http://www.bis.org/review/r190212h.htm" />
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="http://www.bis.org/review/r190218a.htm">
+    <title>Ed Sibley: Towards a more resilient insurance industry</title>
+    <link>http://www.bis.org/review/r190218a.htm</link>
+    <description>Opening remarks by Mr Ed Sibley, Deputy Governor (Prudential Regulation) of the Central Bank of Ireland, at the Central Bank Insurance Conference "Thriving in Challenging Times", Dublin, 15 February 2019.</description>
+    <dc:title>Ed Sibley: Towards a more resilient insurance industry</dc:title>
+    <dc:creator>Ed Sibley</dc:creator>
+    <dc:date>2019-02-17T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Ed Sibley: Towards a more resilient insurance industry</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-17T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190218a.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Ed Sibley</cb:nameAsWritten>
+        <cb:surname>Sibley</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Deputy Governor</cb:jobTitle>
+          <cb:affiliation>Central Bank of Ireland</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190218b.htm">
+    <title>Peter Praet: Interview in  Börsen-Zeitung</title>
+    <link>http://www.bis.org/review/r190218b.htm</link>
+    <description>Interview with Mr Peter Praet, Member of the Executive Board of the European Central Bank, in Börsen-Zeitung, conducted by Mr Detlef Fechtner and Mr Mark Schrörs on 11 February 2019 and published on 18 February 2019.</description>
+    <dc:title>Peter Praet: Interview in  Börsen-Zeitung</dc:title>
+    <dc:creator>Peter Praet</dc:creator>
+    <dc:date>2019-02-17T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Peter Praet: Interview in  Börsen-Zeitung</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-17T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190218b.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Peter Praet</cb:nameAsWritten>
+        <cb:surname>Praet</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Member of the Executive Board</cb:jobTitle>
+          <cb:affiliation>European Central Bank</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190215a.htm">
+    <title>Joachim Wuermeling:  Brexit - implications for UK branches of German banks</title>
+    <link>http://www.bis.org/review/r190215a.htm</link>
+    <description>Speech by Prof Joachim Wuermeling, Member of the Executive Board of the Deutsche Bundesbank, at the Embassy of the Federal Republic of Germany, London, 14 February 2019.</description>
+    <dc:title>Joachim Wuermeling:  Brexit - implications for UK branches of German banks</dc:title>
+    <dc:creator>Joachim Wuermeling</dc:creator>
+    <dc:date>2019-02-14T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Joachim Wuermeling:  Brexit - implications for UK branches of German banks</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-14T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190215a.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Joachim Wuermeling</cb:nameAsWritten>
+        <cb:surname>Wuermeling</cb:surname>
+        <cb:personalTitle>Professor</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Member of the Executive Board</cb:jobTitle>
+          <cb:affiliation>Deutsche Bundesbank</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190215b.htm">
+    <title>Carlos da Silva Costa: What lessons from the crisis for EMU and how will life be in the future?</title>
+    <link>http://www.bis.org/review/r190215b.htm</link>
+    <description>Introductory remarks by Mr Carlos da Silva Costa, Governor of the Bank of Portugal, at the IE Business Leadership Forum "What lessons from the crisis for EMU and how will life be in the future?", Lisbon, 14 February 2019.</description>
+    <dc:title>Carlos da Silva Costa: What lessons from the crisis for EMU and how will life be in the future?</dc:title>
+    <dc:creator>Carlos da Silva Costa</dc:creator>
+    <dc:date>2019-02-14T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Carlos da Silva Costa: What lessons from the crisis for EMU and how will life be in the future?</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-14T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190215b.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Carlos da Silva Costa</cb:nameAsWritten>
+        <cb:surname>da Silva Costa</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Bank of Portugal</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190215d.htm">
+    <title>Øystein Olsen: Economic perspectives</title>
+    <link>http://www.bis.org/review/r190215d.htm</link>
+    <description>Annual address by Mr Øystein Olsen, Governor of Norges Bank (Central Bank of Norway), to the Supervisory Council of Norges Bank and invited guests, Oslo, 14 February 2019.</description>
+    <dc:title>Øystein Olsen: Economic perspectives</dc:title>
+    <dc:creator>Øystein Olsen</dc:creator>
+    <dc:date>2019-02-14T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Øystein Olsen: Economic perspectives</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-14T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190215d.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Øystein Olsen</cb:nameAsWritten>
+        <cb:surname>Olsen</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Central Bank of Norway (Norges Bank)</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190215c.htm">
+    <title>Christopher Kent: Financial conditions and the Australian dollar - recent developments</title>
+    <link>http://www.bis.org/review/r190215c.htm</link>
+    <description>Address by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of Australia, to the XE Breakfast Briefing, Melbourne, 15 February 2019.</description>
+    <dc:title>Christopher Kent: Financial conditions and the Australian dollar - recent developments</dc:title>
+    <dc:creator>Christopher Kent</dc:creator>
+    <dc:date>2019-02-14T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Christopher Kent: Financial conditions and the Australian dollar - recent developments</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-14T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190215c.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Christopher Kent</cb:nameAsWritten>
+        <cb:surname>Kent</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Assistant Governor</cb:jobTitle>
+          <cb:affiliation>Reserve Bank of Australia</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190214a.htm">
+    <title>Zeljko Jović: Overview of recent monetary and macroeconomic trends in Serbia</title>
+    <link>http://www.bis.org/review/r190214a.htm</link>
+    <description>Opening remarks by Dr Zeljko Jović, Vice-Governor of the National Bank of Serbia, at the presentation of the Inflation Report - February 2019, Belgrade, 13 February 2019.</description>
+    <dc:title>Zeljko Jović: Overview of recent monetary and macroeconomic trends in Serbia</dc:title>
+    <dc:creator>Zeljko Jović</dc:creator>
+    <dc:date>2019-02-13T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Zeljko Jović: Overview of recent monetary and macroeconomic trends in Serbia</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-13T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190214a.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Zeljko Jović</cb:nameAsWritten>
+        <cb:surname>Jović</cb:surname>
+        <cb:role>
+          <cb:jobTitle>Vice-Governor</cb:jobTitle>
+          <cb:affiliation>National Bank of Serbia</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190214b.htm">
+    <title>John Iannis Mourmouras: Recent developments in tackling the Greek non-performing loans problem</title>
+    <link>http://www.bis.org/review/r190214b.htm</link>
+    <description>Keynote speech by Professor John Iannis Mourmouras, Senior Deputy Governor of the Bank of Greece, at the 2nd Annual Investors' Conference on Greek &amp;amp; Cypriot NPLs, Athens, 13 February 2019.</description>
+    <dc:title>John Iannis Mourmouras: Recent developments in tackling the Greek non-performing loans problem</dc:title>
+    <dc:creator>John Iannis Mourmouras</dc:creator>
+    <dc:date>2019-02-13T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>John Iannis Mourmouras: Recent developments in tackling the Greek non-performing loans problem</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-13T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190214b.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>John Iannis Mourmouras</cb:nameAsWritten>
+        <cb:surname>Mourmouras</cb:surname>
+        <cb:personalTitle>Professor</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Senior Deputy Governor</cb:jobTitle>
+          <cb:affiliation>Bank of Greece</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190214c.htm">
+    <title>Chiranjibi Nepal: The economic importance and key role of banks in combating money laundering and terrorism finance</title>
+    <link>http://www.bis.org/review/r190214c.htm</link>
+    <description>Address by Dr Chiranjibi Nepal, Governor of the Central Bank of Nepal (Nepal Rastra Bank), at the "Anti-Money Laundering Conference - 4th Annual Summit (Nepal) 2019", Kathmandu, 1 February 2019.</description>
+    <dc:title>Chiranjibi Nepal: The economic importance and key role of banks in combating money laundering and terrorism finance</dc:title>
+    <dc:creator>Chiranjibi Nepal</dc:creator>
+    <dc:date>2019-02-13T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Chiranjibi Nepal: The economic importance and key role of banks in combating money laundering and terrorism finance</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-13T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190214c.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Chiranjibi Nepal</cb:nameAsWritten>
+        <cb:surname>Nepal</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Central Bank of Nepal (Nepal Rastra Bank)</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190214d.htm">
+    <title>Cleviston Haynes: A show of faith</title>
+    <link>http://www.bis.org/review/r190214d.htm</link>
+    <description>Remarks by Mr Cleviston Haynes, Governor of the Central Bank of Barbados, at the Opening of the New Branch of Consolidated Finance, One Welches, 31 January 2019.</description>
+    <dc:title>Cleviston Haynes: A show of faith</dc:title>
+    <dc:creator>Cleviston Haynes</dc:creator>
+    <dc:date>2019-02-13T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Cleviston Haynes: A show of faith</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-13T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190214d.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Cleviston Haynes</cb:nameAsWritten>
+        <cb:surname>Haynes</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Deputy Governor</cb:jobTitle>
+          <cb:affiliation>Central Bank of Barbados</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190213b.htm">
+    <title>Sabine Lautenschläger: Risks to banks - from inside and out</title>
+    <link>http://www.bis.org/review/r190213b.htm</link>
+    <description>Speech by Ms Sabine Lautenschläger, Member of the Executive Board of the European Central Bank and Vice-Chair of the Supervisory Board of the European Central Bank, at the 14th Asia-Pacific High-level meeting on Banking Supervision, Sydney, 13 February 2019.</description>
+    <dc:title>Sabine Lautenschläger: Risks to banks - from inside and out</dc:title>
+    <dc:creator>Sabine Lautenschläger</dc:creator>
+    <dc:date>2019-02-12T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Sabine Lautenschläger: Risks to banks - from inside and out</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-12T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190213b.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Sabine Lautenschläger</cb:nameAsWritten>
+        <cb:surname>Lautenschläger</cb:surname>
+        <cb:personalTitle>Ms</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Member of the Executive Board</cb:jobTitle>
+          <cb:affiliation>European Central Bank</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190213c.htm">
+    <title>Philip R Lane: The Brexit discontinuity</title>
+    <link>http://www.bis.org/review/r190213c.htm</link>
+    <description>Speech by Mr Philip R Lane, Governor of the Central Bank of Ireland, to the 2019 European Financial Forum, Dublin, 13 February 2019.</description>
+    <dc:title>Philip R Lane: The Brexit discontinuity</dc:title>
+    <dc:creator>Philip R Lane</dc:creator>
+    <dc:date>2019-02-12T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Philip R Lane: The Brexit discontinuity</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-12T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190213c.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Philip R Lane</cb:nameAsWritten>
+        <cb:surname>Lane</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Central Bank of Ireland</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190213a.htm">
+    <title>Jerome H Powell: Encouraging economic development in high-poverty rural communities</title>
+    <link>http://www.bis.org/review/r190213a.htm</link>
+    <description>Speech by Mr Jerome H Powell, Chairman of the Board of Governors of the Federal Reserve System, at "Rural Places, Rural Spaces: Closing Financial Services Gaps in Persistent Poverty America", a policy forum sponsored by Hope Enterprise Corporation, Mississippi Valley State University, Itta Bena, Mississippi, 12 February 2019.</description>
+    <dc:title>Jerome H Powell: Encouraging economic development in high-poverty rural communities</dc:title>
+    <dc:creator>Jerome H Powell</dc:creator>
+    <dc:date>2019-02-12T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Jerome H Powell: Encouraging economic development in high-poverty rural communities</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-12T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190213a.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Jerome H Powell</cb:nameAsWritten>
+        <cb:surname>Powell</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Chairman</cb:jobTitle>
+          <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212a.htm">
+    <title>Luis de Guindos: The euro area - current status and the monetary policy stance</title>
+    <link>http://www.bis.org/review/r190212a.htm</link>
+    <description>Remarks by Mr Luis de Guindos, Vice-President of the European Central Bank, at Deusto Business School, Madrid, 11 February 2019.</description>
+    <dc:title>Luis de Guindos: The euro area - current status and the monetary policy stance</dc:title>
+    <dc:creator>Luis de Guindos</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Luis de Guindos: The euro area - current status and the monetary policy stance</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212a.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Luis de Guindos</cb:nameAsWritten>
+        <cb:surname>de Guindos</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Vice-President</cb:jobTitle>
+          <cb:affiliation>European Central Bank</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212b.htm">
+    <title>Michelle W Bowman: A conversation on community banking</title>
+    <link>http://www.bis.org/review/r190212b.htm</link>
+    <description>Speech by Ms Michelle W Bowman, Member of the Board of Governors of the Federal Reserve System, at the Conference for Community Bankers, sponsored by the American Bankers Association, San Diego, California, 11 February 2019.</description>
+    <dc:title>Michelle W Bowman: A conversation on community banking</dc:title>
+    <dc:creator>Michelle W Bowman</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Michelle W Bowman: A conversation on community banking</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212b.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Michelle W Bowman</cb:nameAsWritten>
+        <cb:surname>Bowman</cb:surname>
+        <cb:role>
+          <cb:jobTitle>Member</cb:jobTitle>
+          <cb:affiliation>Board of Governors of the Federal Reserve System</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212c.htm">
+    <title>Emmanuel Tumusiime-Mutebile: Digital transformation in banking, future trend and how to remain buoyant</title>
+    <link>http://www.bis.org/review/r190212c.htm</link>
+    <description>Remarks by Prof. Emmanuel Tumusiime-Mutebile, Governor of the Bank of Uganda, at the Launch of Standard Chartered Bank (U) Limited's Client Digital initiative, Kampala, 29 January 2019.</description>
+    <dc:title>Emmanuel Tumusiime-Mutebile: Digital transformation in banking, future trend and how to remain buoyant</dc:title>
+    <dc:creator>Emmanuel Tumusiime-Mutebile</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Emmanuel Tumusiime-Mutebile: Digital transformation in banking, future trend and how to remain buoyant</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212c.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Emmanuel Tumusiime-Mutebile</cb:nameAsWritten>
+        <cb:surname>Tumusiime-Mutebile</cb:surname>
+        <cb:personalTitle>Professor</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Bank of Uganda</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212d.htm">
+    <title>Jens Weidmann: The role of the central bank in a modern economy - a European perspective</title>
+    <link>http://www.bis.org/review/r190212d.htm</link>
+    <description>Speech by Dr Jens Weidmann, President of the Deutsche Bundesbank and Chairman of the Board of Directors of the Bank for International Settlements, at the University of South Africa (UNISA), Pretoria, 12 February 2019.</description>
+    <dc:title>Jens Weidmann: The role of the central bank in a modern economy - a European perspective</dc:title>
+    <dc:creator>Jens Weidmann</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Jens Weidmann: The role of the central bank in a modern economy - a European perspective</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212d.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Jens Weidmann</cb:nameAsWritten>
+        <cb:surname>Weidmann</cb:surname>
+        <cb:personalTitle>Dr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>President</cb:jobTitle>
+          <cb:affiliation>Deutsche Bundesbank</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212e.htm">
+    <title>Daniel Mminele: Understanding the core drivers of inflation in South Africa</title>
+    <link>http://www.bis.org/review/r190212e.htm</link>
+    <description>Keynote address by Mr Daniel Mminele, Deputy Governor of the South African Reserve Bank, at the S&amp;amp;P Dow Jones Indices South African Seminar, Johannesburg, 12 February 2019.</description>
+    <dc:title>Daniel Mminele: Understanding the core drivers of inflation in South Africa</dc:title>
+    <dc:creator>Daniel Mminele</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Daniel Mminele: Understanding the core drivers of inflation in South Africa</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212e.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Daniel Mminele</cb:nameAsWritten>
+        <cb:surname>Mminele</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Deputy Governor</cb:jobTitle>
+          <cb:affiliation>South African Reserve Bank</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212g.htm">
+    <title>Ernest Addison: The importance of promoting financial stability and currency innovations</title>
+    <link>http://www.bis.org/review/r190212g.htm</link>
+    <description>Opening remarks by Dr Ernest Addison, Governor of the Bank of Ghana, at the ICCOS Currency Conference, Accra, 11 February 2019.</description>
+    <dc:title>Ernest Addison: The importance of promoting financial stability and currency innovations</dc:title>
+    <dc:creator>Ernest Addison</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Ernest Addison: The importance of promoting financial stability and currency innovations</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212g.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Ernest Addison</cb:nameAsWritten>
+        <cb:surname>Addison</cb:surname>
+        <cb:personalTitle>Dr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Bank of Ghana</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+  <item rdf:about="http://www.bis.org/review/r190212h.htm">
+    <title>Pablo Hernández de Cos: The macroeconomic outlook for Spain in a global context and upcoming fiscal challenges</title>
+    <link>http://www.bis.org/review/r190212h.htm</link>
+    <description>Testimony by Mr Pablo Hernández de Cos, Governor of the Bank of Spain, before Parliament in relation to the Draft State and Social Security Budget for 2019, Madrid, 28 January 2019.</description>
+    <dc:title>Pablo Hernández de Cos: The macroeconomic outlook for Spain in a global context and upcoming fiscal challenges</dc:title>
+    <dc:creator>Pablo Hernández de Cos</dc:creator>
+    <dc:date>2019-02-11T23:00:00Z</dc:date>
+    <cb:speech>
+      <cb:simpleTitle>Pablo Hernández de Cos: The macroeconomic outlook for Spain in a global context and upcoming fiscal challenges</cb:simpleTitle>
+      <cb:occurrenceDate>2019-02-11T23:00:00Z</cb:occurrenceDate>
+      <cb:institutionAbbrev>BIS</cb:institutionAbbrev>
+      <cb:resource>
+        <cb:title>PDF version</cb:title>
+        <cb:link>http://www.bis.org/review/r190212h.pdf</cb:link>
+        <cb:description />
+      </cb:resource>
+      <cb:person type="author">
+        <cb:nameAsWritten>Pablo Hernández de Cos</cb:nameAsWritten>
+        <cb:surname>Hernández de Cos</cb:surname>
+        <cb:personalTitle>Mr</cb:personalTitle>
+        <cb:role>
+          <cb:jobTitle>Governor</cb:jobTitle>
+          <cb:affiliation>Bank of Spain</cb:affiliation>
+        </cb:role>
+      </cb:person>
+    </cb:speech>
+  </item>
+</rdf:RDF>
