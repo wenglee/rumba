@@ -16,15 +16,19 @@ def display_topics(model, feature_names, no_top_words, display_output=True):
 
     return topic_dict
 
-def create_corpus(dir):
+
+def create_corpus(labels, labelfile='label.csv', docdir='./fed/fedminutes/'):
+
+    df = pd.read_csv(docdir + '/../' + labelfile)
     documents = []
-    for entry in os.scandir(dir):
-        if not entry.name.startswith('.') and entry.is_file():
-            # print(entry.name)
-            with open(dir+'/'+entry.name,'r') as f:
+    for label in labels:
+        for doc in df.query("%s == '1'" % label)['doc'].values.tolist():
+            with open(docdir+'/'+doc,'r') as f:
                 fread = f.read()
             documents.append(fread)
+    print("# of corpus doc: " + str(len(documents)))
     return documents
+
 
 def run_nmf(documents, num_features, num_topics):
     # NMF is able to use tf-idf
@@ -35,7 +39,9 @@ def run_nmf(documents, num_features, num_topics):
     nmf_decomp = NMF(n_components=num_topics, random_state=1, alpha=.1, l1_ratio=.5, init='nndsvd').fit(tfidf)
     return nmf_decomp, tfidf_feature_names
 
+
 def run_lda(documents, num_features, num_topics):
+
     # LDA can only use raw term counts for LDA because it is a probabilistic graphical model
     tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2, max_features=num_features, stop_words='english')
     tf = tf_vectorizer.fit_transform(documents)
@@ -50,10 +56,12 @@ if __name__ == "__main__":
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--multiperiod', action='store_true', help='run multiperiod LDA topic detection')
+    parser.add_argument('--label', nargs='+', help='-l label for corpus.  default: minutes',
+                        default = ['minutes'])
     args = vars(parser.parse_args())
 
-    #if args['multiperiod']:
-    if True:
+    if args['multiperiod']:
+    # if True:
         print('running multiperiod')
         datadir = './fed/fedminutes'
         fed_files = glob(os.path.join(datadir, '*.htm'))
@@ -85,8 +93,8 @@ if __name__ == "__main__":
     else:
         print('running singleperiod')
         #parameters
-        dir = './data'
-        documents = create_corpus(dir)
+        print("corpus label: " + ','.join(args['label']))
+        documents = create_corpus(args['label'])
 
         num_features = 100
         num_topics = 3
